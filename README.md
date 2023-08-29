@@ -12,7 +12,7 @@ _If you're a student currently enrolled to this course feel free to review my co
 We'll play as a farmer who buys seeds, waits for them to harvest, then reap the rewards! 
 
 ## Screenshots
-![screenshots](./screenshots/screenshots-plantville-online.jpg)
+![screenshots](./MGPlantVilleOnline/screenshots/screenshots-plantville-online.jpg)
 
 ## Details/Notes
 
@@ -20,7 +20,7 @@ We'll play as a farmer who buys seeds, waits for them to harvest, then reap the 
 2. Plantville Online builds on the last Plantville project. Once you turn in your Plantville project, you have the option of using your previous Plantvillle code or mine.
 3. For the fianl project, please expand and integrate APIs into Plantville WPF. More info on API below.
 
-We are going to turn Plantville into an online game. [Give it a shot](./app/MGPlantVilleOnline.exe) to see how it works. 
+We are going to turn Plantville into an online game. [Give it a shot](./MGPlantVilleOnline/app/MGPlantVilleOnline.exe) to see how it works. 
 
 ## New Features
 1. When you are in a textbox, you should be able to press Enter and the submit button should automatically execute. This should happen in most textboxes.
