@@ -2,7 +2,7 @@
 A C# App inspired by the FarmVille game.
 
 ## Copyright Disclaimer / Student Warning
-_I developed this project for the C# II course part of the UCLA Applications Certificate._
+_I developed this project for the C# II course part of the UCLA Applications Programming Certificate._
 
 _If you're a student currently enrolled to this course feel free to review my code **but only as a reference or for study purposes.**_
 
