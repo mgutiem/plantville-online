@@ -4,9 +4,9 @@ A C# App inspired by the FarmVille game.
 ## Copyright Disclaimer / Student Warning
 _I developed this project for the C# II course part of the UCLA Applications Certificate._
 
-_If you're a student currently enrolled to this course feel free to review my code **but only for study purposes.**_
+_If you're a student currently enrolled to this course feel free to review my code **but only as a reference or for study purposes.**_
 
-***Do not copy my code or hand it in as yours***, _professor has all the records of each one of our previous delivered works, so he will know it and you'll undoubtedly get in trouble for plagiarism._
+***DO NOT copy my code or hand it in as yours***, _professor has all the records of each one of our previous delivered works, so he will know it and you'll undoubtedly get in trouble for plagiarism._
 
 ## Description ##
 We'll play as a farmer who buys seeds, waits for them to harvest, then reap the rewards! 
