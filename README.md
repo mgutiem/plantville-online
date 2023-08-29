@@ -6,7 +6,7 @@ _I developed this project for the C# II course part of the UCLA Applications Cer
 
 _If you're a student currently enrolled to this course feel free to review my code **but only for study purposes.**_
 
-***DO NOT hand it in as yours***, _professor has all the records of each one of our previous delivered works, so he will know it and you'll undoubtedly get in trouble for plagiarism._
+***Do not copy my code or hand it in as yours***, _professor has all the records of each one of our previous delivered works, so he will know it and you'll undoubtedly get in trouble for plagiarism._
 
 ## Description ##
 We'll play as a farmer who buys seeds, waits for them to harvest, then reap the rewards! 
